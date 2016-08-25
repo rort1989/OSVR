@@ -14,6 +14,7 @@ If you use the code in your research, please consider citing following publicati
 
 Rui Zhao, Quan Gan, Shangfei Wang and Qiang Ji. "Facial Expression Intensity Estimation Using Ordinal Information." IEEE Conference on Computer Vision and Pattern Recognition. 2016. [[PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.pdf)]
 [[Bib](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.html)]
+[[Supplement](http://homepages.rpi.edu/~zhaor/document/Zhao2016_supp.pdf)]
 
 ### Reference
 [1] P. Lucey, J. F. Cohn, K. M. Prkachin, P. E. Solomon, and I. Matthews. Painful data: The unbc-mcmaster shoulder pain expression archive database. In FG, pages 57–64. IEEE, 2011. 
